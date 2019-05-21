@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">examen</string>
+    <string name="Titulo">Unidades de temperatura</string>
+    <string name="Titulo2">Unidades de  Ditancia</string>
+
+    <string name="bt1">Celcoi a farengei</string>
+    <string name="bt2">Farengei a Celcio</string>
+    <string name="bt3">Celsius a Kelvin</string>
+    <string name="bt4">Kelvin a Celsius</string>
+    <string name="bt5">Unidades de  Ditancia</string>
+    <string name="bt6">Unidades de  Ditancia</string>
+    <string name="bt7">Unidades de  Ditancia</string>
+    <string name="bt8">Unidades de  Ditancia</string>
+
 
 </resources>
